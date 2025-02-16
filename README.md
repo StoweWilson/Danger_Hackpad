@@ -1,5 +1,5 @@
 # Hackpad
-Please i worked so hard on this and i love ducks.
+Please i worked so hard on this.
 ## PCB
 <img width="851" alt="Screenshot 2025-02-15 at 8 49 53 PM" src="https://github.com/user-attachments/assets/19a21693-1a4a-4bdf-9ec0-dd24336888c7" />
 <img width="525" alt="Screenshot 2025-02-15 at 8 50 08 PM" src="https://github.com/user-attachments/assets/be647d5d-5e07-46a6-8020-f97ef0104476" />
