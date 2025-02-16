@@ -7,8 +7,8 @@ Please i worked so hard on this and i love ducks.
 # Case
 <img width="1023" alt="Screenshot 2025-02-15 at 9 11 18 PM" src="https://github.com/user-attachments/assets/1ac1f29c-e3a1-426b-97fa-cc0345391212" />
 <img width="703" alt="Screenshot 2025-02-15 at 9 11 57 PM" src="https://github.com/user-attachments/assets/82cb438f-4a5c-4492-9516-e5e3bb0331fb" />
-# BOM
 
+# BOM
 - **1x** SEEEDUINO XIAO RP2040
 - **16x** 1N4148 diodes
 - **2x** 4.7k resistors
